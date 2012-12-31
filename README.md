@@ -1,4 +1,0 @@
-yuminmao
-========
-
-My portfolio website.
